@@ -20,13 +20,13 @@ I help SaaS companies and ISVs that offer messaging and voice to their own custo
 - Two-way messaging for SaaS platforms: inbound and outbound conversations, broadcasts and delivery tracking.
 - Reviews of existing Twilio builds that are failing in production: registration rejections, delivery problems, unreliable event handling and runaway costs.
 
-<!-- Hidden until twilio-isv-reference-architecture is public. Then uncomment the heading, the sentence and the first entry:
+<!-- Hidden until twilio-isv-reference-architecture is public:
 ## Reference repos
 
 My production work is client-owned and private. The repositories below are original reference implementations of how I design these systems.
 
 - [twilio-isv-reference-architecture](https://github.com/shafeeqAhmed/twilio-isv-reference-architecture): Reference architecture for multi-tenant messaging and voice SaaS on Twilio.
-Later entries (a2p-onboarding-reference, voice-ai-receptionist-reference, twilio-event-reliability, multi-tenant-messaging-inbox) are added the same way, one per approved, published repo. -->
+-->
 
 ## Work with me
 
@@ -34,4 +34,8 @@ Later entries (a2p-onboarding-reference, voice-ai-receptionist-reference, twilio
 - **Longer builds and reviews**: available through Upwork.
 - Weekday overlap with US teams: 11am-3pm ET.
 
-Upwork: https://www.upwork.com/freelancers/~01024fedafab55bb28
+## Contact
+
+- Upwork: https://www.upwork.com/freelancers/~01024fedafab55bb28
+- LinkedIn: https://www.linkedin.com/in/shafeeque-ahmad-681700152/
+- Email: shafeeq.ahmed541@gmail.com
